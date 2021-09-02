@@ -17,6 +17,7 @@
                 <div class="comment_block"><span class="comment_color">Black Guards</span> - черные стражи </div>   
                 <div class="comment_block"><span class="comment_color">Eric Falken</span>  - Эрик Фолкин</div> 
                 <div class="comment_block"><span class="comment_color">he'd</span>   - he would <span class="comment_color">or</span> he had</div> 
+                <div class="comment_block"><span class="comment_color">I won't</span>  - I will not</div> 
             </div> 
             <div><img src="images/dest/mars.jpg">
             </div>
@@ -71,6 +72,32 @@
                 <p>Жилистая, лихорадочная сила ее билась в них. "Попробуй, Эрик. Нам нечего терять</p>
                 <p>Пол Эйвери переводил взгляд с одного из них на другого, а затем на красные огни, которые были кораблями. Внезапно он опустился на край койки и уронил свою широкую белокурую голову на руки. Фолкен увидел на их тыльной стороне шнуры, похожие на натянутые струны арфы.</p>
                 <p>"Я... не могу", - прошептал Фолкен. Команда спать снова прозвучала громким криком в его мозгу. "Я не могу думать".</p>
+                <p>"Ты должен!" - сказала Шейла. "Если ты заснёшь, нас заберут.Ты не сможешь покончить с собой. Они заберут твой мозг пустым. Затем они подвергнут тебя Хилтонизации с помощью Психо-Настройщика.</p>
+                <p>«Они очистят ваш мозг электрическими импульсами, а затем передадут совершенно новый шаблон памяти, даже изменив мыслительные схемы, чтобы вы не думали одинаково. Они изменят ваш метаболизм, баланс желез, ваши отпечатки пальцев».</p>
+                <p>Он знал, что она рассказывала об этих вещах намеренно, чтобы заставить его бороться. Но все еще слабая тьма окутывала его.</p>
+                <p>«Даже твое имя исчезнет", - сказала она. «Ты будешь безмятежным и безжизненным, бездельничающим всю свою жизнь, просто одним из скота Хилтона.» Она глубоко вздохнула и добавила: «Как Китти».</p>
+                <p>Он схватил ее за плечи, затем сжал их тонкую кость. »Как ты узналa? " </p>
+                <p>«В ту ночь, когда ты увидел меня, ты произнес ее имя. Возможно, я заставил тебя подумать о ней. Я знаю, каково это, Эрик. Они забрали у меня мальчика, которого я любила».</p>
+                <p>Он прильнул к ней, голубой далекий огонь в его глазах отнимал жизнь у ее горячего зеленого пламени. В ней было железо. Он мог чувствовать искру и столкновение ее с его разумом.</p>
+                <p>"Поговори со мной", - прошептал он. "Не дай мне уснуть. Я постараюсь".</p>
+                <p>Волны сна охватили Фолкена физическими руками. Но он повернулся к панели управления.</p>
+                <p>Горький блеск Меркурия ударил в его налитые кровью глаза. Красные огни окружили его. Он не мог думать. А потом заговорила Шейла Мур. Стоя у него за спиной, ее тонкие жизнерадостные руки на его плечах, рассказывали ему историю хилтонизма.</p>
+                <p>"Психо-настройщик Гантри Хилтона поначалу был хорошей вещью. Благодаря картированию и искусственному отключению мозговых волн и использованию электрогипноза-передачи мыслей непосредственно в мозг- он излечивал ненатуральное безумие, неврозы и преступные наклонности. Затем, в конце межпланетной войны..."</p>
+                <p>Приближаются красные огни. Как он мог пройти мимо батареи космических стражей?</p>
+                <p>Голос Шейлы боролся с темнотой. Скорость-вот что ему было нужно. И больше мужества, чем ему когда-либо приходилось использовать в своей жизни раньше. И удачи.</p>
+                <p>"Продолжай говорить, Шейла. Не дай мне уснуть".</p>
+                <p>"...Хилтон прогудел о своем открытии. Люди были измотаны шестью годами борьбы. Они хотели Хилтонизма, Мира и Счастья. Страсть к бегству от жизни гнала их, как сумасшедших".</p>
+                <p>Он нашел аварийный рычаг и опустил его вниз. Последняя унция накопленной энергии ударила в ракетные трубы. Сокол встал на дыбы и пошатнулся.</p>
+                <p>Затем она бросилась прямо на Меркьюри, с тонким визгом истерзанного металла, сотрясающего стены кабины.</p>
+                <p>Лопаются космические снаряды. Они встряхнули Фалькона, но остались далеко позади. Кольцо красных огней исчезало. Ускорение разрывало тело Фолкена, но паутина сна ослабевала. Голос Шейлы взывал к нему, рассказывая историю человеческого рабства.</p>
+                <p>Голые, голодные вершины Меркурия зарычали на Фолкена. И тут проснулись орудия поста космической стражи.</p>
+                <p>"Говори, Шейла!" - закричал он. "Продолжай говорить!"</p>
+                <p>"Таким образом, Гэнтри Хилтон сделал себя своего рода Богом, регулирующим мысли и эмоции своего народа. Сейчас нет никакой оппозиции, кроме тех, кто не признает, и у нас нет власти. Человечество пребывает в безмятежном оцепенении. Он не может чувствовать неудовлетворенности, нелояльности или желания расти и меняться. Он не может сражаться, даже морально.</p>
+                <p>Гантри Хилтон - это бог. Его сын после него будет богом. И человечество умирает".</p>
+                <p>В мозгу Фолкена раздался странный, почти слышимый щелчок. Он почувствовал быстрый, ужасный укол ненависти, который поразил его, потому что, казалось, не был частью его самого. Затем все исчезло, и его разум прояснился.</p>
+ <p>Он устал до изнеможения, но мог думать и сражаться.</p>
+ <p>Мертвенно-бледные, пылающие звезды прыгали и умирали вокруг него. Разбитые тарелки кричали в агонии. Худые руки Фолкена забегали по панели управления. Теперь он знал, что собирается делать.</p>
+
             </div>
         </div>
 
@@ -81,6 +108,7 @@
                 <img src="images/dest/mars2.jpg">
             </div>
             <div class="container-text">
+                <?php echo "introduction"; ?>
                 <div class="introduction">
                     <p>More than three-quarters of a century ago, a planet was discovered that was even closer to the sun than Mercury. Its discovers, respected astronomers, named it Vulcan and witnessed its transits across the fiery orb of Sol. Now this world is lost, if ever it existed, and it will not be found today in the charts of the solar system. Leigh Brackett, spinner of cosmic marvels, weaves a tale of the rediscovery of Vulcan, explaining its elusiveness, and using it as a canvas to paint a vivid picture of life upon the sun itself.</p></div>
             <p>Eric Falken stood utterly still, staring down at his leashed and helpless hands on the controls of the spaceship Falcon.</p>
@@ -128,7 +156,41 @@
             <p>The wiry, febrile force of her beat at them. "Try, Eric. We have nothing to lose</p>
             <p>Paul Avery stared from one to the other of them and then to the red lights that were ships. Abruptly he sank down on the edge of hid=s bunk and dropped his broad, fair head in his hands. Falken saw the cords like drawn harp-strings on the backs of them.</p>
             <p>"I... can't," whispered Falken. The command to sleep was once more a vast shout in his brain. "I can't think."</p>
-            </div>
+
+
+
+
+
+            <p>«You must!» said Sheila. «If you sleep, we'll be taken. You won't be able to kill yourself. They'll pick your brain empty. Then they'll Hiltonize you with the Psycho-Adjuster.</p>
+            <p>«They'll blank your brain with electric impulses and then transmit a whole new memory-pattern, even shifting the thought-circuins so that you won't think the same way. They'll change your metabolism, your glandular balance, your fingerprints.»</p>
+            <p>He knew she was recounting these things deliberately, to force him to fight. But still the weak darkness shrouded him.</p>
+            <p>«Even your name will be gone,» she said. «You'll be placid and lifeless, lazing your life away, just one of Hilton's cattle.» She took a deep breath and added, «Like Kitty.»</p>
+            <p>He caught her shoulders, then, grinding the thin bone of them. «How did you know?»</p>
+            <p>«That night, when you saw me, you said her name. Perhaps I made you think of her. I know how it feels, Eric. They took the boy I loved away from me.»</p>
+            <p>He clung to her, the blue distant fire in his eyes taking life from the hot, green blaze of hers. There was iron in her. He could feel the spark and clash of it against his mind.</p>
+            <p>"Talk to me," he whispered. "Keep me awake. I'll try."</p>
+            <p>Waves of sleep clutched Falken with physical hands. But he turned to the control panel.</p>
+            <p>The bitter blaze of Mercury stabbed his bloodshot eyes. Red lights hemmed him in. He couldn't think. And then Sheila Moore began to talk. Standing behind him, her thin vital hands on his shoulders, telling him the story of Hiltonism.</p>
+            <p>"Gantry Hilton's Psycho-Adjuster was a good thing at first. Through the mapping and artificial blanking of brainwaves and the use of electrohypnotism-the transmission of thought-patterns directly to the brain - it cured non-lesional insanity, neuroses, and criminal tendencies. Then, at the end of the interplanetar War..."</p>
+
+
+            <p>Red lights closing in. How could he get past the Spaceguard battery?</p>
+            <p>Sheila's voice fought back the darkness. Speed, that was what he needed. And more guts than he'd ever had to use in his life before. And luck.</p>
+            <p>"Keep talking, Sheila. Keep me awake."</p>
+            <p>"...Hilton boomed his discovery. The people were worn out with six years of struggle. They wanted Hiltonism, Peace and Happiness. The passion for escape from life drove them like lunatics."</p>
+            <p>He found the emergency lever and thrust it down. The last ounce of hoarded power slammed into the rocket tubes. The Falcon reared and staggered.</p>
+            <p>Then she shot straight for Mercury, with the thin scream of tortured metal shibering along the cabin walls.</p>
+            <p>Spaceshells burst. They shook the Falkon, but they were far behind. The ring of red lights was falling away. Acceleration tore at Falken's body, but the web of sleep was loosening. Sheila's voice cried to him, the story of man's slavery.</p>
+
+            <p>The naked, hungry peaks of Mercury snarled at Falken. And then the guns of the Spaceguard post woke up.</p>
+            <p>"Talk, Sheila!" - he cried. "Keep talking!"</p>
+            <p>"So Gantry Hilton made himself a sort of God, regulating the thoughts and emotions of his people. There is no opposition noww, except for the Unregrnerates, and we have no power. Humanity walks in a placid stupor. It cannot feel dissatisfaction, disloyalty, or the will to grow and change. It cannot fight, even morally.</p>
+            <p>Gantry Hilton is a god. His son after him will be a god. And humanity is dying."</p>
+            <p>There was a strange, almost audible snap in Falken's brain. He felt a  quick, terrible stab of hate that startled him because it seemed no part of himself. Then it was gone, and his mind was clear.</p>
+            <p>He was tired to exhaustion, but he could think, and fight.</p>
+            <p>Livid, flaming stars leaped and died around him. Racked plates screamed in agony. Falken's lean hands raced across the controls. He knew now what he was going to do.</p>
+
+        </div>
         </div>
     </div>
 <script src="js/app.min.js"></script>
