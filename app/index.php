@@ -189,6 +189,24 @@
             <p>There was a strange, almost audible snap in Falken's brain. He felt a  quick, terrible stab of hate that startled him because it seemed no part of himself. Then it was gone, and his mind was clear.</p>
             <p>He was tired to exhaustion, but he could think, and fight.</p>
             <p>Livid, flaming stars leaped and died around him. Racked plates screamed in agony. Falken's lean hands raced across the controls. He knew now what he was going to do.</p>
+            
+
+            <p>Down, down, straight into the black, belching mouths of the guns, gambling that his sudden burst of speed would confuse the gunners, that the tiny speck jf his ship hurtig bow-on would be hard to see against the star-flecked depths of space.</p>
+            <p>Falken's lips were white. Sheila's thin hands were a sharp unnoticed pain on his shoulders. Down, down...The peaks of Mercury almost grazed his hull.</p>
+            <p>A shell burst searingly, dead ahead. Blinded, dazed, Falken hekd his ship by sheer instinct. Thundering rockets fought the gravitational pull for a moment. Then he was through, and across.</p>
+            <p>Across Mercury, in free space, a speeding mote lost against the titanic fires of the Sun.</p>
+            <p>Falken turned. Paul Avery still in his bunk, but his golden eyes were wide, staring at Falken. They dropped to Sheila Moore, who had slipped exhausted to the floor, and came back to Falken - and stared and stared with a queer, stark look that Falken couldn't read.</p>
+            <p>Falden cut the rockets and locked the controls. Heat was already seepbng through the hull. He looked through shaded ports at the vast and swollen Sun.</p>
+            <p>No man in the history of space travel had vrntured so close before. He wondered how long they could stand the heat, and whether the hull could screen off the powerful radiations.</p>
+            <p>His brain, with all its knowledge of the Unregenerate camps, was safe for a time. Knowing the hopelessness of it, he smiled sardonically, wondering if sheer habit had taken the place of reason.</p>
+            <p>Then Sheila's bright head made him think of Kitty, and he knew that his tired body had betrayed him. He could never give up.</p>
+            <p>He went down beside Sheila. He took her hands and said:</p>
+            <p>"Thank you. Thank you, Sheila Moore."</p>
+            <p>And then,  quite peacefully, he was asleep with his head in her lap.</p>
+
+
+
+
 
         </div>
         </div>
