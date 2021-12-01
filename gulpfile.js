@@ -4,33 +4,28 @@ let preprocessor = 'sass'; // Выбор препроцессора в прое�
 const { src, dest, parallel, series, watch } = require('gulp');
 // Подключаем Browsersync
 const browserSync = require('browser-sync').create();
+// Определяем логику работы Browsersync
 // Подключаем gulp-concat
 const concat = require('gulp-concat');
-// Подключаем gulp-uglify-es
+ // Подключаем gulp-uglify-es
 const uglify = require('gulp-uglify-es').default;
 // Подключаем модули gulp-sass и gulp-less
 const sass = require('gulp-sass')(require('sass'));
 const less = require('gulp-less');
-
- 
 // Подключаем Autoprefixer
 const autoprefixer = require('gulp-autoprefixer');
-
- 
-// Подключаем модуль gulp-clean-css
+ // Подключаем модуль gulp-clean-css
 const cleancss = require('gulp-clean-css');
-
- 
-// Подключаем compress-images для работы с изображениями
+ // Подключаем compress-images для работы с изображениями
 const imagecomp = require('compress-images');
- 
-// Подключаем модуль del
+ // Подключаем модуль del
 const del = require('del');
+ 
 
-// Определяем логику работы Browsersync
+
 function browsersync() {
 	browserSync.init({ // Инициализация Browsersync
-		proxy: "child",
+		proxy: "Child",
 		notify: false, // Отключаем уведомления
 		online: true // Режим работы: true или false
 	})
@@ -109,8 +104,9 @@ exports.images = images;
 // Экспортируем функцию cleanimg() как таск cleanimg
 exports.cleanimg = cleanimg;
 // Создаем новый таск "build", который последовательно выполняет нужные операции
+exports.build = series(styles, scripts, images, buildcopy);
 // Создаем новый таск "build", который последовательно выполняет нужные операции
 exports.build = series(cleandist, styles, scripts, images, buildcopy);
-
+ 
 // Экспортируем дефолтный таск с нужным набором функций
 exports.default = parallel(styles, scripts, browsersync, startwatch);
